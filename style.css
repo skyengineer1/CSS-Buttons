@@ -1,0 +1,29 @@
+a.link01 {
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    padding: 13px;
+    display: block;
+    width: 140px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+a.link01:hover {
+    background-color: rgb(154, 0, 0);
+}
+
+a.link02 {
+    color: black;
+    border: 3px solid green;
+    width: 140px;
+    padding: 13px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+a.link02:hover {
+    color: white;
+    background-color: green;
+}
