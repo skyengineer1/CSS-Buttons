@@ -7,11 +7,6 @@ A simple project demonstrating two types of styled buttons using HTML and CSS.
 - **Button 1**: A block-styled button with a red background that changes to dark red on hover.
 - **Button 2**: A bordered button with green borders that changes to a green background with white text on hover.
 
-## Preview
-
-![Preview of the styled buttons](path-to-your-preview-image.png)  
-*(Replace with an actual screenshot if available)*
-
 ## Technologies Used
 
 - HTML5
